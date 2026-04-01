@@ -13,7 +13,7 @@ const BUNDLED_PACKAGES = [
   '@clack/prompts',
   '@clack/core',
   'picocolors',
-  'gray-matter',
+  'js-yaml',
   'simple-git',
   'xdg-basedir',
   'sisteransi',

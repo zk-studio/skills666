@@ -19,6 +19,7 @@ export type AgentType =
   | 'cursor'
   | 'deepagents'
   | 'devin'
+  | 'dexto'
   | 'droid'
   | 'firebender'
   | 'forgecode'

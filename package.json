@@ -1,6 +1,6 @@
 {
   "name": "skills",
-  "version": "1.5.3",
+  "version": "1.5.5",
   "description": "The open agent skills ecosystem",
   "type": "module",
   "bin": {
@@ -63,6 +63,7 @@
     "gemini-cli",
     "github-copilot",
     "goose",
+    "hermes-agent",
     "junie",
     "iflow-cli",
     "kilo",
